@@ -18,7 +18,7 @@
         android:layout_marginTop="57dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="CALCULATOR" />
+        android:text="CALCULATOR!!!!" />
 
     <TextView
         android:id="@+id/textView"
